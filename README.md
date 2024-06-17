@@ -60,11 +60,9 @@ We welcome contributions from the community! Here’s how you can help:
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any queries or feedback, please reach out to [your.email@example.com](mailto:your.email@example.com).
+For any queries or feedback, please reach out to [navyabandla678@gmail.com](mailto:navyabandla678@gmail.com).
 
 ---
 
